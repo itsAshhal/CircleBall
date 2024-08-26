@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a35cdabb9ec46a4a92c7af1f35f0ca1, type: 3}
+  m_Name: PlayerRole
+  m_EditorClassIdentifier: 
+  M_PlayerRoleType: 0
+  M_PlayerAttributesOffense: {fileID: 11400000, guid: 862082000dcee6c48a6e81b8e1fffba3, type: 2}
+  M_PlayerAttributesDefense: {fileID: 11400000, guid: e27218103127ccd4c967384a915777a2, type: 2}
+  _playerMainAttributes: {fileID: 11400000, guid: 862082000dcee6c48a6e81b8e1fffba3, type: 2}
